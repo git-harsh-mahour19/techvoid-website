@@ -1,0 +1,366 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.container-fluid {
+    background-color: #0A1828;
+}
+
+.nav-link {
+    color: aqua;
+}
+
+.nav-link:hover {
+    color: aliceblue;
+}
+
+
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+.logo img {
+    width: 230px;
+    height: 100px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+/* navbar */
+
+.list-setting {
+    list-style-type: none;
+    font-size: x-large;
+    text-align: center;
+    padding-left: 4rem;
+    font-weight: lighter;
+}
+
+
+
+/* social media */
+
+.social {
+    display: inline-block;
+    padding-left: 2rem;
+}
+
+.border {
+    border: 1px solid transparent;
+}
+
+.border:hover {
+    border: 1px solid gold;
+    background-color: #ffffff;
+    color: #0A1828;
+}
+
+/*  */
+
+.anchor {
+    color: aliceblue;
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+
+/* content1 */
+
+.content1 {
+    background-color: #0A1828;
+    color: aliceblue;
+    text-align: center;
+    font-size: 43px;
+    font-weight: lighter;
+    font-family: Garamond;
+    height: 10%;
+}
+
+/* section 2 */
+
+.body2 {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/global-business-internet-network-connection-iot-internet-things-business-intelligence-concept-busines-global-network-futuristic-technology-background-ai-generative.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+    height: 500px;
+    display: inline-block;
+}
+
+.section2 {
+    text-align: center;
+    font-family: Garamond;
+}
+
+.font-weight {
+    font-size: 50px;
+    margin-top: 120px;
+    color: aliceblue;
+}
+
+.para1 {
+    font-size: 18px;
+    font-weight: bolder;
+    color: aliceblue;
+    margin-top: 30px;
+}
+
+.button {
+    margin-top: 40px;
+    height: 34px;
+    width: 150px;
+    border-color: goldenrod;
+    border-radius: 20px;
+    background-color: #0A1828;
+    color: goldenrod;
+}
+
+/* section 3 */
+
+.body3 {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/v617batch2-bb-01-technology.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    width: auto;
+}
+
+.section3-h2 {
+    color: #ffffff;
+    font-size: 49px;
+    font-weight: lighter;
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.btn {
+    border-radius: 25px;
+    border: 2px solid #BFA181;
+    color: #BFA181;
+    background-color: #0A1828;
+}
+
+.border-radius {
+    border-radius: 25px;
+    border: 2px solid #BFA181;
+    background-color: #0A1828
+}
+
+.font-style {
+    color: #ffffff;
+    font-size: xx-large;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.text {
+    color: #ffffff;
+    font-weight: lighter;
+    text-align: center;
+}
+
+/* section 4 */
+
+.body4 {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/6708431_3416659.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 520px;
+    width: 100%;
+}
+
+.section4-h2 {
+    color: #ffffff;
+    font-size: 59px;
+    font-weight: lighter;
+    padding-top: 70px;
+    padding-left: 10px;
+}
+
+.section4-div {
+    color: #BFA181;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.button-edit {
+    margin-left: 2rem;
+    color: #BFA181;
+}
+
+/* section 5 */
+
+.body5 {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), linear-gradient(to right, #0A1828, #141e30);
+    height: auto;
+    width: auto;
+}
+
+.img-size {
+    width: 10rem;
+    height: 8rem;
+    display: inline-block;
+}
+
+.bg-color {
+    background-color: #0A1828;
+    color: #BFA181;
+}
+
+.text-size {
+    color: #ffffff;
+}
+
+/* section 6 */
+
+.body6 {
+    height: 500px;
+    width: 100%;
+}
+
+/* section 7 */
+
+.body7 {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/copy.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 780px;
+    width: 100%;
+}
+
+/* section 8 */
+
+.reach-us-class {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/wepik-export-20231225070405KSgy.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    text-align: center;
+    padding: 3%;
+}
+
+/* Blogs css */
+
+
+#background-color {
+    background-color: #0A1828;
+
+}
+
+.carousel-item {
+    padding: 1% 25%;
+    background-color: #0A1828
+}
+
+.background-img {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),  url(../images/6708431_3416659.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: aliceblue;
+}
+
+.border-on-button {
+    border: 2px solid aqua;
+    background-color: #0A1828;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.border-on-button:hover {
+    color: goldenrod;
+    background-color: white;
+}
+
+/* About us */
+
+.body-about-us {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),  url(../images/silhouettes-businesspeople-background.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.size-of-text {
+    font-size: 55px;
+    font-weight: lighter;
+    text-align: center;
+    padding-top: 30px;
+    color: antiquewhite;
+}
+
+.size-color-of-para {
+    font-size: 57px;
+    text-align: center;
+    padding-top: 10%;
+    color: goldenrod;
+}
+
+.para-text-size-color {
+    font-size: x-large;
+    text-align: center;
+    padding-top: 40px;
+    font-style: italic;
+    color: antiquewhite;
+}
+
+
+
+/* graphic designing */
+
+.btn {
+    border-radius: 25px;
+    border: 2px solid #BFA181;
+        background-color: #0A1828;
+}
+
+.border-radius {
+    border-radius: 25px;
+    border: 2px solid #BFA181;
+    background-color: #0A1828
+}
+
+.font-style-size {
+    color: #ffffff;
+    font-size: xx-large;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.text {
+    color: #ffffff;
+    font-weight: lighter;
+    text-align: center;
+}
+
+/* footer */
+
+*{
+    margin: 0; padding: 0;
+    border: 0; outline: 0;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+footer .cr-con{
+    background-color: #232127;
+    color: white;
+    padding: 1rem 4rem;
+    text-align: center;
+}
